@@ -17,14 +17,11 @@
       {% endfor %}
       <a href="https://github.com/hsuorg/hsurepo" class="btn">View on GitHub</a>
       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
-      <a href="https://github.com/hsuorg/hsurepo/page1 class="btn">page1>
     </section>
 
     <section class="main-content">
       
       {{ content }}
-
-      </footer>
 
     </section>
 

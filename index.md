@@ -12,15 +12,8 @@
     <section class="page-header">
       <h1 class="project-name">table of contents</h1>
       <h2 class="project-tagline"></h2>
-      
-      <section class="page-header">
-      <h1 class="project-name">hsurepo</h1>
-      <h2 class="project-tagline"></h2>
-      {% for page in site.pages %}
-        <a href= {{ pagename.filename }} class="btn">{{ pagename.title }}</a>
-      {% endfor %}
     
-      <a href="http://github.com/hsuorg/hsurepo/pagename" class="btn">pagename</a>
+      <a href="http://github.com/hsuorg/hsurepo/pagename" class="btn">Chapter 1</a>
       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
        <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .tar.gz</a>
     </section>

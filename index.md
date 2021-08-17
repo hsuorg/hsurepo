@@ -15,6 +15,7 @@
     
       <a href="https://github.com/hsuorg/hsurepo" class="btn">View on GitHub</a>
       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
+       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .tar.gz</a>
     </section>
 
     <section class="main-content">

@@ -13,7 +13,7 @@
       <h1 class="project-name">table of contents</h1>
       <h2 class="project-tagline"></h2>
     
-      <a href="https://github.com/hsuorg/hsurepo" class="btn">View on GitHub</a>
+      <a href="https://github.com/hsuorg/hsurepo/chapter1" class="btn">Chapter1</a>
       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
        <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .tar.gz</a>
     </section>

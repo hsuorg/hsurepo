@@ -1,0 +1,6 @@
+The main options are:
+Open, allows to open a REZ file
+Import, different formats are supported and described in depth in Section ???
+The language option lets you choose different languages supported by Rezonator. 
+1.2	Select a user interface language
+Rezonator supports multiple user interface languages. You can change the user interface language at any time. Upon opening Rezonator, you can select the box on the lower right corner and change the language.

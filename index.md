@@ -10,11 +10,9 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">rezonator</h1>
+      <h1 class="project-name">table of contents</h1>
       <h2 class="project-tagline"></h2>
-      {% for page in site.pages %}
-        <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
-      {% endfor %}
+    
       <a href="https://github.com/hsuorg/hsurepo" class="btn">View on GitHub</a>
       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
     </section>

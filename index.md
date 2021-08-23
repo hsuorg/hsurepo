@@ -19,6 +19,7 @@
     </section>
 
     <section class="main-content">
+      ![Rezonator!](/Users/hopesu/Desktop/cropped-Rezonator-Logo-Icon-Only-1.png "Rezonator")
       
       {{ content }}
 

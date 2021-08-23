@@ -12,7 +12,8 @@
     <section class="page-header">
       <h1 class="project-name">table of contents</h1>
       <h2 class="project-tagline"></h2>
-        ![cropped-Rezonator-Logo-Icon-Only-1](https://user-images.githubusercontent.com/77072787/130384095-03d79436-67b2-4db6-81d1-27b2790bcca8.png)
+      ![cropped-Rezonator-Logo-Icon-Only-1](https://user-images.githubusercontent.com/77072787/130384255-102691e2-d789-44c9-8a70-3cd2711a5d9b.png)
+
       <a href="http://github.com/hsuorg/hsurepo/pagename" class="btn">Chapter 1</a>
       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
        <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .tar.gz</a>

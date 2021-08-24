@@ -11,12 +11,3 @@
       <li><a href="{{site.baseurl}}/Chapter2">Chapter2</a></li>
       <li><a href="{{site.baseurl}}/Chapter3">Chapter3</a></li>
  
-    </section>
-
-    <section class="main-content">
-
-      
-      {{ content }}
-
-  </body>
-</html>

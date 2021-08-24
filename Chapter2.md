@@ -7,7 +7,10 @@ title: How to Start and Manage Files
 ![unnamed-2](https://user-images.githubusercontent.com/77072787/130671253-af155cea-03bc-4fb6-b16f-ef38339f7573.png)
 
 The main options are:
+
 Open, allows to open a REZ file
+
 Import, different formats are supported and described in depth later on.
+
 The language option lets you choose different languages supported by Rezonator. 
 

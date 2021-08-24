@@ -18,8 +18,6 @@
       
       {{ content }}
 
-    </section>
-
   </body>
 </html>
 

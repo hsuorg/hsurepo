@@ -25,7 +25,6 @@
 
     </section>
 
-  
   </body>
 </html>
 testing text styles
@@ -34,5 +33,6 @@ testing text styles
 *italic*
 ### Smaller heading
 > quote
+
 ![testimage](https://user-images.githubusercontent.com/77072787/130660412-91ac5015-391c-4253-83c9-a79d6701d4c5.jpg)
 

@@ -14,6 +14,7 @@
       <h2 class="project-tagline"></h2>
 
       <a href="http://github.com/hsuorg/hsurepo/pagename" class="btn">Chapter 1</a>
+      <a href="contact.md>contact</a>
       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
        <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .tar.gz</a>
     </section>

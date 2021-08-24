@@ -4,7 +4,6 @@
     <title>{{ page.title }}</title>
   </head>
   <body>
-    <section class="page-header">
       <h1 class="project-name">table of contents</h1>
       <h2 class="project-tagline"></h2>
    

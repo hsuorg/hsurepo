@@ -16,6 +16,10 @@
       <a href="http://github.com/hsuorg/hsurepo/pagename" class="btn">Chapter 1</a>
       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
        <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .tar.gz</a>
+      
+      <li><a href="{{site.baseurl}}/">Home</a></li>
+            <li><a href="{{site.baseurl}}/Chapter1">Chapter1</a></li>
+            <li><a href="{{site.baseurl}}/contact">Contact</a></li>
     </section>
 
     <section class="main-content">

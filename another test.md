@@ -2,10 +2,10 @@
 title: This will be used as the title-tag of the page head
 ---
 
-hello
+display test for documentation
 =====
 
-**You are here!**
-sample text
+**bold text**
+regular text
 
-![cropped-Rezonator-Logo-Icon-Only-1](https://user-images.githubusercontent.com/77072787/130385216-5aa89967-4abe-436a-ab79-45a5156e58d1.png)
+![unnamed](https://user-images.githubusercontent.com/77072787/130656861-b5f07f15-a81b-4928-9f56-dc8ca227a20e.jpg)

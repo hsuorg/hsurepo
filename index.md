@@ -14,9 +14,8 @@
       <h2 class="project-tagline"></h2>
    
       <li><a href="{{site.baseurl}}/Chapter1">Chapter1</a></li>
-      <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
-       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .tar.gz</a>
-      
+      <li><a href="{{site.baseurl}}/Chapter2">Chapter2</a></li>
+      <li><a href="{{site.baseurl}}/Chapter3">Chapter3</a></li>
  
     </section>
 

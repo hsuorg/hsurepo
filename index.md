@@ -16,5 +16,6 @@
       <li><a href="{{site.baseurl}}/Chapter8">Chapter8</a></li>
       <li><a href="{{site.baseurl}}/Chapter9">Chapter9</a></li>
       <li><a href="{{site.baseurl}}/Chapter10">Chapter10</a></li>
+      <li><a href="{{site.baseurl}}/UnitMode">UnitMode</a></li>
 
 

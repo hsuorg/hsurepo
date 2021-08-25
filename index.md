@@ -1,28 +1,4 @@
----
-layout: default
----
-
-# Chapter1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## HowToStart
-
-TEST2
-
-# Chapter 2
-
-TEST3
-
-## Unit mode
-
-TEST 4
-
-
-
-
-
-<!-- <html lang="en-us">
+<html lang="en-us">
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
@@ -37,5 +13,5 @@ TEST 4
       <li><a href="{{site.baseurl}}/Chapter4">Chapter4</a></li>
       <li><a href="{{site.baseurl}}/Chapter5">Chapter5</a></li>
       <li><a href="{{site.baseurl}}/Chapter6">Chapter6</a></li>
- -->
+
 

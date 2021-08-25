@@ -63,11 +63,15 @@ The Visibility Button (eyeball), when activated by a Left Mouse Click, will togg
 
 Functionality of the Trail Chain List
 
-1. While in Trail Mode, the List Window will display a list of all the Trail Chains you have created, as shown here:![image102](https://user-images.githubusercontent.com/34769184/130832167-802a3a62-5786-46b8-be0b-14a66fb5b0f1.png)
-2. A way to Focus a Trail Chain is with a Mouse Click on the chain’s row within the Trail Chain List![image51](https://user-images.githubusercontent.com/34769184/130832283-8a094cff-b723-4eae-ac87-07f714477125.png)
+1. While in Trail Mode, the List Window will display a list of all the Trail Chains you have created, as shown here:
+![image102](https://user-images.githubusercontent.com/34769184/130832167-802a3a62-5786-46b8-be0b-14a66fb5b0f1.png)
+2. A way to Focus a Trail Chain is with a Mouse Click on the chain’s row within the Trail Chain List
+![image51](https://user-images.githubusercontent.com/34769184/130832283-8a094cff-b723-4eae-ac87-07f714477125.png)
 3. With a Trail Chain focused, the **Contents Window** will display the contents of the focused Trail Chain
-4. On the left side of the Trail Chain’s name is the **Pick Toggle Button**. The Pick Toggle Button will add that Trail Chain to the list of chains shown on the ![image58](https://user-images.githubusercontent.com/34769184/130832784-ea781e8d-da72-4328-baa9-d89721fc5d42.png)
-5. More options for Trail Chains can be accessed with a **Right Mouse** Click on a chain’s row (CTRL & Mouse Click on Mac)![image58](https://user-images.githubusercontent.com/34769184/130832784-ea781e8d-da72-4328-baa9-d89721fc5d42.png)
+4. On the left side of the Trail Chain’s name is the **Pick Toggle Button**. The Pick Toggle Button will add that Trail Chain to the list of chains shown on the 
+![image58](https://user-images.githubusercontent.com/34769184/130832784-ea781e8d-da72-4328-baa9-d89721fc5d42.png)
+5. More options for Trail Chains can be accessed with a **Right Mouse** Click on a chain’s row (CTRL & Mouse Click on Mac)
+![image58](https://user-images.githubusercontent.com/34769184/130832784-ea781e8d-da72-4328-baa9-d89721fc5d42.png)
 
 
 

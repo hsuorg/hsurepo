@@ -5,3 +5,5 @@ plugins:
 
 title: [Rezonator Documentation Test]
 description: [This website is a test documentation site for the software Rezonator]
+
+theme: jekyll-theme-leap-day

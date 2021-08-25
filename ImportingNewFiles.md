@@ -25,7 +25,8 @@ Prose data consists of long paragraphs of text. Within this schema, data is orga
 
 ### 1.4.4	One Word Per Line (OWPL)
 
-![unnamed-5](https://user-images.githubusercontent.com/77072787/130718457-56880fdb-5eea-4528-8aef-fc1adfd24166.png)
+![unnamed-7](https://user-images.githubusercontent.com/77072787/130719148-524753d8-7b30-4605-bef0-40037ddd254f.png)
+
 
 One Word Per Line (OWPL) data consists of columns and rows of text in which the text columns read vertically. Each row represents 1 word (token), while each column displays a word feature. The accepted file type is a spreadsheet (.CSV). An example shown above is the Santa Barbara Corpus .CSV file. 
 

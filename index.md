@@ -8,6 +8,7 @@
       <h2 class="project-tagline"></h2>
    
       <li><a href="{{site.baseurl}}/Chapter1">Chapter1</a></li>
+      <li><a href="{{site.baseurl}}/Chapter2">Chapter1</a></li>
       <li><a href="{{site.baseurl}}/HowToStart">HowToStart</a></li>
       <li><a href="{{site.baseurl}}/OpeningARezFile">OpeningARezFile</a></li>
       <li><a href="{{site.baseurl}}/Chapter4">Chapter4</a></li>

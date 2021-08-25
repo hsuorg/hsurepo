@@ -25,7 +25,7 @@ The most important feature of Trail Mode is the creation of Trail Chains. A Trai
 
 You can begin a Trail Chain by clicking on a **Word** in the discourse, creating the first Link in the chain
 
-![image90](https://user-images.githubusercontent.com/34769184/130830255-697882ba-cd22-4a06-b81d-4d8ed3fbae26.png)
+:![image90](https://user-images.githubusercontent.com/34769184/130830255-697882ba-cd22-4a06-b81d-4d8ed3fbae26.png):
 
 Press **enter** and a Trail Chain will be created, and it will be automatically **Focused**. When a chain is focused, Left Mouse Clicking on other words in the discourse will add those words to the focused chain.
 

@@ -1,9 +1,9 @@
 <html lang="en-us">
   <head>
+    <a href="https://github.com/hsuorg/hsurepo" class="btn">View on GitHub</a>
+       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
-     <a href="https://github.com/hsuorg/hsurepo" class="btn">View on GitHub</a>
-       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
   </head>
   <body>
       <h1 class="project-name">table of contents</h1>

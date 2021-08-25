@@ -53,11 +53,11 @@ When in **Trail Mode**, the **Trail Chain List** can be found in the top 1/3rd o
 
 There are 2 buttons on the lines in **Trail Mode**: **Filter Chains Button** & **Visibility Button**. The Filter Chains Button (filter cone), when activated by a Left Mouse Click, will add all active Trail Chains to the list of chains shown on the **Filter Screen**.
 
-![image97](https://user-images.githubusercontent.com/34769184/130831607-4fb0f866-9320-42f8-b7e9-2e7fbe4e5528.png)
+![image97](https://user-images.githubusercontent.com/34769184/130831607-4fb0f866-9320-42f8-b7e9-2e7fbe4e5528.png)![image23](https://user-images.githubusercontent.com/34769184/130834345-22bd4f32-9438-431b-a5ea-f260b5a676ff.png)
 
 The Visibility Button (eyeball), when activated by a Left Mouse Click, will toggle the visibility of all Trail Chains on the main screen.
 
-![image84](https://user-images.githubusercontent.com/34769184/130831676-6f8ad1e6-7757-4c43-a316-c14c60083feb.png)
+![image84](https://user-images.githubusercontent.com/34769184/130831676-6f8ad1e6-7757-4c43-a316-c14c60083feb.png)![image3](https://user-images.githubusercontent.com/34769184/130834391-935efef3-44c4-498f-afd1-24894203dec8.png)
 
 ---
 

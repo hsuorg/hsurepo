@@ -1,7 +1,7 @@
+ <a href="https://github.com/hsuorg/hsurepo" class="btn">View on GitHub</a>
+       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
 <html lang="en-us">
   <head>
-    <a href="https://github.com/hsuorg/hsurepo" class="btn">View on GitHub</a>
-       <a href="https://github.com/hsuorg/hsurepo" class="btn">Download .zip</a>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
   </head>

@@ -4,7 +4,7 @@
     <title>{{ page.title }}</title>
   </head>
   <body>
-      <h1 class="project-name">table of contents</h1>
+      <h1 class="project-name">Table of Contents</h1>
       <h2 class="project-tagline"></h2>
   
       <li><a href="{{site.baseurl}}/HowToStart">HowToStart</a></li>

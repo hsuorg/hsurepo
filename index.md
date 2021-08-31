@@ -10,10 +10,10 @@
       <li><a href="{{site.baseurl}}/HowToStart">HowToStart</a></li>
       <li><a href="{{site.baseurl}}/OpeningARezFile">OpeningARezFile</a></li>
       <li><a href="{{site.baseurl}}/ImportingNewFiles">ImportingNewFiles</a></li>
-      <li><a href="{{site.baseurl}}/Chapter5">Chapter5</a></li>
-      <li><a href="{{site.baseurl}}/Chapter6">Chapter6</a></li>
-      <li><a href="{{site.baseurl}}/Chapter7">Chapter7</a></li>
-      <li><a href="{{site.baseurl}}/Chapter8">Chapter8</a></li>
+      <li><a href="{{site.baseurl}}/SavingAFile">SavingAFile</a></li>
+      <li><a href="{{site.baseurl}}/MediaFile>MediaFile</a></li>
+      <li><a href="{{site.baseurl}}/ExportingAFile">ExportingAFile</a></li>
+      <li><a href="{{site.baseurl}}/DropdownMenus">DropdownMenus</a></li>
       <li><a href="{{site.baseurl}}/Chapter9">Chapter9</a></li>
       <li><a href="{{site.baseurl}}/Chapter10">Chapter10</a></li>
       <li><a href="{{site.baseurl}}/UnitMode">UnitMode</a></li>

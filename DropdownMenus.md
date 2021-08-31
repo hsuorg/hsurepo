@@ -1,11 +1,11 @@
 ---
 title: Dropdown Menus
 ---
-1.3 How to Naviate Dropdown Menus in Rezonator
+1.8 How to Naviate Dropdown Menus in Rezonator
 =====
 **There are numerous Dropdown Menus and a Taskbar in Rezonator that allow the use to accomplish different tasks.**
 
-### 1.4.1	Edit Dropdown:
+### 1.8.1	Edit Dropdown:
 
 The **Delete All** option will open another dropdown:
 
@@ -21,7 +21,7 @@ The **Go To Line** option opens a text input box. The user can input a line numb
 
 The **Go To Time** option opens a text input box. The user can input a number of seconds and their Main Screen will scroll to the line closest in Time Stamp
 
-### 1.4.2	View Dropdown:
+### 1.8.2	View Dropdown:
 
 The **Window option** will open another dropdown:
 
@@ -67,7 +67,7 @@ The **Hide** option will open another dropdown:
 
 **Place** will toggle the visibility of all Place Chains in the Rez file.
 
-### Filter Dropdown:	
+### 1.8.3 Filter Dropdown:	
 
 The **Filter** option will toggle on/off the Filter Screen (if any chains are Picked to be in the filter)
 
@@ -89,7 +89,7 @@ The **Context** option will open another dropdown:
 
 The **Clear** option will unpick all Picked Chains, clearing the Filter Screen, and sending the user b2	ack to the Main Screen if the Filter Screen was open
 
-### Tools Dropdown:
+### 1.8.4 Tools Dropdown:
 
 The **Search** option will open another dropdown:
 
@@ -103,7 +103,7 @@ The **Rez** option will set the current Mode to Rez Mode,  and set the current L
 
 The **Stack** option will set the current List Tab to the Stack Tab (And if the current Mode is Unit Mode, it will set the current Mode to Trail Mode). 
 
-### Settings Dropdown:
+### 1.8.5 Settings Dropdown:
 
 The **User** option allows the user to set a Username for the current chain creator.
 
@@ -130,7 +130,7 @@ The **Restore Hints** option will re-enable any Hints the user has previously di
 The **Zoom** option will open another dropdown, allowing the user to set the timing intervals at which Rezonator will Autosave the current Rezonator session, or to disable Autosaving.
 
 
-### Help Dropdown:
+### 1.8.6 Help Dropdown:
 
 The **Help** option will toggle the display of the Help Menu on the right side of the Main Screen.
 

@@ -20,11 +20,11 @@ In order for the Filter Screen to be activated, at least one Chain must be Picke
 
 There are 2 ways to activate the Filter Screen:
 
-**Click** on the **Filter Button in the Side Menu Bar**.
+* **Click** on the **Filter Button in the Side Menu Bar**.
 
 ![image98](https://user-images.githubusercontent.com/34769184/131631234-02c37676-b620-4798-a007-c16e7fcedb6d.png)
 
-Or you can press **CTRL** and **P** on the keyboard. This shortcut does not currently work on Mac.
+* Or you can press **CTRL** and **P** on the keyboard. This shortcut does not currently work on Mac.
 
 Click on the Funnel icon in the right hand Toolbar.
 

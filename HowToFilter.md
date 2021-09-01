@@ -12,7 +12,7 @@ Here’s an example of a single Chain in the Filter Screen:
 
 ![image104](https://user-images.githubusercontent.com/34769184/131630973-36928e99-9f76-458e-ab24-472d28cea553.png)
 
-### Activating the Search Window
+### Activating the Filter Screen
 
 In order for the Filter Screen to be activated, at least one Chain must be Picked for the Filter. An example of a picked Chain is shown below:
 

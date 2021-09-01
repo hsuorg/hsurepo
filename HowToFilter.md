@@ -8,10 +8,6 @@ HowToFilter
 
 The **Filter Screen** is a modified version of the Main Screen, showing only Chains that have been **Picked** for the Filter. Rez Chains, Trail Chains, and Stack Chains can all be Picked and displayed in the Filter Screen.  
 
-### Activating the Search Window
-
-To activate the **Search Window**, **Left Mouse Click** on the “Search -> Keyword” option within the “Tools” dropdown.
-
 Here’s an example of a single Chain in the Filter Screen:
 
 ![image104](https://user-images.githubusercontent.com/34769184/131630973-36928e99-9f76-458e-ab24-472d28cea553.png)

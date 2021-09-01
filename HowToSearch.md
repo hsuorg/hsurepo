@@ -35,9 +35,11 @@ The Toggle Buttons will activate different settings for the current Search
 ![image77](https://user-images.githubusercontent.com/34769184/131593927-b14f6e41-29a5-45b0-8755-643b3501f228.png)
 
 2. **In Focused Rez Chain**: When toggled, will limit the search space to words within the currently focused Rez Chains.
+
 ![image112](https://user-images.githubusercontent.com/34769184/131593980-9a12fdc8-c764-46b5-acaa-ce04c7f9be20.png)
   
 3. **Case Sensitive**: When toggled, will limit matches to the input text to only those matching the capitalization of the input text.
+
 ![image69](https://user-images.githubusercontent.com/34769184/131594034-bdefef8f-5295-451d-a0cf-5360e2c95be7.png)
 
 The Confirmation Buttons allow you to begin the Search, or cancel the Search.

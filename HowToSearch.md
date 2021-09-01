@@ -30,7 +30,7 @@ The Text Input Line is where you type in text you want to find in the discourse.
 
 The Toggle Buttons will activate different settings for the current Search
 
-1. **Regular Expression**: When toggled, will allow for searching based on Regular Expression Format.
+1. **Regular Expression**: When toggled, will allow for searching based on Regular Expression Format. 
 ![image77](https://user-images.githubusercontent.com/34769184/131593927-b14f6e41-29a5-45b0-8755-643b3501f228.png)
 
 2. **In Focused Rez Chain**: When toggled, will limit the search space to words within the currently focused Rez Chains.

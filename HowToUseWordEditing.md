@@ -7,6 +7,7 @@ HowToUseWordEditing
 ### What is Word Editing?
 
 **Word Editing** allows you to modify the words or tokens on the main screen, allowing for more annotation options.
+
 Use cases of Word Editing include splitting compound words to annotate the pieces separately, and inserting placeholder or implicit words like the Zero morpheme.
 
 ### How to Access the Word Edit Dropdown

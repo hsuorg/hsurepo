@@ -8,5 +8,7 @@ description: [This website is a test documentation site for the software Rezonat
 
 theme: jekyll-theme-leap-day
 
+show_downloads: true
+
 github:
   repository_url: https://hsuorg.github.io/hsurepo/

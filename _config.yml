@@ -3,8 +3,8 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: [Rezonator Documentation Test]
-description: [This website is a test documentation site for the software Rezonator]
+title: [Rezonator Docs]
+description: [Dynamics of Human Engagement]
 
 theme: jekyll-theme-leap-day
 

@@ -38,11 +38,11 @@ By inputting the two words in the described format, and **Left Mouse Clicking** 
 
 ![image72](https://user-images.githubusercontent.com/34769184/131774103-25368479-f8be-4cea-b26e-0351684465cc.png)
 
-The New Word option allows you to insert a new word into the discourse. Selecting this option will activate another dropdown with the options \<0>\, \<ZERO>\, \<PRO>\, and **Custom**.
+The New Word option allows you to insert a new word into the discourse. Selecting this option will activate another dropdown with the options \<0>, \<ZERO>, \<PRO>, and **Custom**.
   
 ![image36](https://user-images.githubusercontent.com/34769184/131774213-14e37c10-39b2-4de7-840f-0ad725623209.png)
 
-\<0>\, \<ZERO>\, and \<PRO>\, are all default new words. Selecting one of these defaults will open the New Word Pop-up Window, with the text input filled in with the selected word. Selecting the Custom option will open this window as well, with the text input blank.
+\<0>, \<ZERO>, and \<PRO>, are all default new words. Selecting one of these defaults will open the New Word Pop-up Window, with the text input filled in with the selected word. Selecting the Custom option will open this window as well, with the text input blank.
 
 ![image76](https://user-images.githubusercontent.com/34769184/131774259-34ad4f9f-451d-44e4-82f1-6ab5cbd97bf5.png)  
 ![image124](https://user-images.githubusercontent.com/34769184/131774379-875f9467-55f9-4551-a557-47e51c366dac.png)

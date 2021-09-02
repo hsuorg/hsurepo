@@ -38,7 +38,7 @@ By inputting the two words in the described format, and **Left Mouse Clicking** 
 
 ![image72](https://user-images.githubusercontent.com/34769184/131774103-25368479-f8be-4cea-b26e-0351684465cc.png)
 
-The New Word option allows you to insert a new word into the discourse. Selecting this option will activate another dropdown with the options <0>, /<ZERO>/, /<PRO>/, and **Custom**.
+The New Word option allows you to insert a new word into the discourse. Selecting this option will activate another dropdown with the options <0>, /<ZERO>/, \<PRO>\, and **Custom**.
   
 ![image36](https://user-images.githubusercontent.com/34769184/131774213-14e37c10-39b2-4de7-840f-0ad725623209.png)
 

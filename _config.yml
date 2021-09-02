@@ -12,3 +12,5 @@ show_downloads: true
 
 github:
   repository_url: https://hsuorg.github.io/hsurepo/
+  zir_url: https://github.com/johnwdubois/rezonator/raw/master/Executables/Windows/Rezonator%200.20.4.zip
+  tar_url: https://github.com/johnwdubois/rezonator/raw/master/Executables/Mac/Rezonator%200.20.4.dmg.zip

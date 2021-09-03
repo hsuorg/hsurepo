@@ -17,7 +17,7 @@
       <li><a href="{{site.baseurl}}/UnitMode">UnitMode</a></li>
       <li><a href="{{site.baseurl}}/TrailMode">TrailMode</a></li>
       <li><a href="{{site.baseurl}}/RezMode">RezMode</a></li>
-      <li><a href="{{site.baseurl}}/Chapter9">Chapter9</a></li>
+      <li><a href="{{site.baseurl}}/Chapter9">AudioFiles</a></li>
       <li><a href="{{site.baseurl}}/Chapter10">Chapter10</a></li>
       <li><a href="{{site.baseurl}}/HowToSearch">HowToSearch</a></li>
       <li><a href="{{site.baseurl}}/HowToFilter">HowToFilter</a></li>

@@ -19,6 +19,7 @@
       <li><a href="{{site.baseurl}}/RezMode">RezMode</a></li>
       <li><a href="{{site.baseurl}}/AudioFiles">AudioFiles</a></li>
       <li><a href="{{site.baseurl}}/StackChains">StackChains</a></li>
+      <li><a href="{{site.baseurl}}/LineLists">LineLists</a></li>
       <li><a href="{{site.baseurl}}/HowToSearch">HowToSearch</a></li>
       <li><a href="{{site.baseurl}}/HowToFilter">HowToFilter</a></li>
       <li><a href="{{site.baseurl}}/HowToUseWordEditing">HowToUseWordEditing</a></li>    

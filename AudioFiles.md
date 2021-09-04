@@ -28,3 +28,16 @@ A more advanced feature of Rezonator’s Audio capabilities is Audio Bookmarks, 
 Audio Bookmarks are created by pressing the Enter Key on the keyboard. Once the Enter Key is pressed, and Audio Interface is open, an Audio Bookmark will be placed at the current position of the Audio Playhead
 
 The Audio Bookmark is visualized by a green triangle above the Seek bar. When an Audio Bookmark is present, pressing the Spacebar will set the Audio Playhead back to the position of the Audio Bookmark, in addition to playing/pausing the current audio file.
+
+### 3.2.4	How to use Play Stack
+
+Another advanced feature is Play Stack, which allows the currently selected Stack Chain to determine the Audio Bookmark and Audio Endmark. To focus a Stack Chain, you can Left Mouse Click on the Stack Chain Name within the List Window.
+
+Once a Stack Chain has been focused, the first and last Lines within the Stack Chain will be used to set the Audio Bookmark and Audio Endmark. The Audio Endmark, when present, prevents the Audio Playhead from moving past the Endmark’s position.
+
+The Endmark is visualized with a red triangle below the Seek bar.
+
+The Bookmark and Endmark created by focusing a Stack Chain will update based on a few situations:
+If the current Stack Chain has links added to or taken away from them, the Bookmark and Endmark will update to reflect the new lines.
+If a new Stack Chain is focused, then the Bookmark and Endmark will update to reflect the lines of the new Stack Chain.
+If the currently focused Stack Chain is unfocused or deleted, then the Bookmark and Endmark will be disabled for now.

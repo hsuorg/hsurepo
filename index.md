@@ -18,7 +18,7 @@
       <li><a href="{{site.baseurl}}/TrailMode">TrailMode</a></li>
       <li><a href="{{site.baseurl}}/RezMode">RezMode</a></li>
       <li><a href="{{site.baseurl}}/AudioFiles">AudioFiles</a></li>
-      <li><a href="{{site.baseurl}}/Chapter10">Chapter10</a></li>
+      <li><a href="{{site.baseurl}}/StackChains">Chapter10</a></li>
       <li><a href="{{site.baseurl}}/HowToSearch">HowToSearch</a></li>
       <li><a href="{{site.baseurl}}/HowToFilter">HowToFilter</a></li>
       <li><a href="{{site.baseurl}}/HowToUseWordEditing">HowToUseWordEditing</a></li>    

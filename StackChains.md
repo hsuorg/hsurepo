@@ -2,7 +2,7 @@
 title: Stack Chains
 ---
 ### 3.3 How to make Stack Chains
-=====
+
 **Stack Chains are the third type of Chains within Rezonator, the other two being Rez Chains  and Trail Chains . The main purpose of Stack Chains is to allow the user to annotate entire lines in the discourse, instead of annotating word by word. Note: Stack Chains do not have a single Mode attributed to them, and are instead accessible in both Rez Mode and Trail Mode.**
 
 ### Accessing Stack Chain Creation

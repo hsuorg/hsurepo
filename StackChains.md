@@ -48,7 +48,9 @@ To Delete a Link within a Stack Chain, Left Mouse Click on the word you want to 
 
 Stack Chain List - visualizing the active Stack Chains and their content
 There are 2 buttons on the Tab: Filter Chains Button, & Visibility Button
+
 ![unnamed-15](https://user-images.githubusercontent.com/77072787/132411850-17a0e0c5-4bf6-46e0-a8d1-14c49f89efc8.png)
+
 ![unnamed-16](https://user-images.githubusercontent.com/77072787/132411856-b9d2305e-fbd2-4553-b7d9-0b3ed695ec68.png)
 
 The Filter Chains Button (filter cone), when activated by a Left Mouse Click, will add all active Stack Chains to the list of chains shown on the Filter Screen.
@@ -56,6 +58,7 @@ The Filter Chains Button (filter cone), when activated by a Left Mouse Click, wi
 The Visibility Button (eyeball), when activated by a Left Mouse Click, will toggle the visibility of all Stack Chains on the main screen.
 
 ![unnamed-17](https://user-images.githubusercontent.com/77072787/132411887-7b7dc753-1b5b-40c5-a151-efa21d4e73d5.png)
+
 ![unnamed-18](https://user-images.githubusercontent.com/77072787/132411893-dfbc0042-4ee8-4c66-9bbf-81b99af5012d.png)
 
 ### Functionality of the Stack Chain List

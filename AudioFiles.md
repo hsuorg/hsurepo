@@ -1,7 +1,7 @@
 ---
-title: 3.1 How to use the Audio interface
+title: How to use the Audio interface
 ---
-### 3.1.1	How to Open an Audio File
+### How to Open an Audio File
 **The Audio functionality of Rezonator allows the user to listen to the dialog associated with the transcript being annotated. The user can play and pause the audio, set bookmarks within the audio track, and even select lines to play the audio of.**
 
 In order to begin using audio in Rezonator, you’ll need to open an audio file. To do so, Left Mouse Click on the “Media” option from the “File” dropdown. Note: Rezonator only supports .OGG audio files.
@@ -12,7 +12,7 @@ If the audio file successfully imports, then the Audio Interface will appear, li
 
 ![unnamed-2](https://user-images.githubusercontent.com/77072787/132410189-3b459c3d-c07a-4209-90aa-e4cdba658412.png)
 
-### 3.2.2	How to navigate the Audio Interface
+### How to navigate the Audio Interface
 
 On the leftmost panel, we display the name and file location of the current Audio Track:
 
@@ -34,7 +34,7 @@ On the Right Most side of the Audio Interface is the Jump Audio Toggle Button. W
 
 ![unnamed-6](https://user-images.githubusercontent.com/77072787/132410896-9477ec92-0814-4a83-948a-81ab326fb56b.png)
 
-### 3.2.3	How to make an Audio Bookmark
+### How to make an Audio Bookmark
 
 A more advanced feature of Rezonator’s Audio capabilities is Audio Bookmarks, which are used to set custom start times for Audio playing.
 
@@ -44,7 +44,7 @@ Audio Bookmarks are created by pressing the Enter Key on the keyboard. Once the 
 
 The Audio Bookmark is visualized by a green triangle above the Seek bar. When an Audio Bookmark is present, pressing the Spacebar will set the Audio Playhead back to the position of the Audio Bookmark, in addition to playing/pausing the current audio file.
 
-### 3.2.4	How to use Play Stack
+### How to use Play Stack
 
 Another advanced feature is Play Stack, which allows the currently selected Stack Chain to determine the Audio Bookmark and Audio Endmark. To focus a Stack Chain, you can Left Mouse Click on the Stack Chain Name within the List Window.
 

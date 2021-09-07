@@ -1,7 +1,7 @@
 ---
 title: Line Lists
 ---
-1.1	How to use the Line List
+How to use the Line List
 =====
 ### Functionality of the Unit Tab
 

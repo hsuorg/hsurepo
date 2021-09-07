@@ -7,20 +7,28 @@ title: 3.1 How to use the Audio interface
 In order to begin using audio in Rezonator, you’ll need to open an audio file. To do so, Left Mouse Click on the “Media” option from the “File” dropdown. Note: Rezonator only supports .OGG audio files.
 
 ![unnamed](https://user-images.githubusercontent.com/77072787/132409845-1003a101-1eb2-42b5-bdc9-f5ebdf37729f.png)
-![unnamed-1](https://user-images.githubusercontent.com/77072787/132409854-0cee7598-6a42-4f13-91f6-e5daa639c740.png)
 
 If the audio file successfully imports, then the Audio Interface will appear, like so:
 
+![unnamed-2](https://user-images.githubusercontent.com/77072787/132410189-3b459c3d-c07a-4209-90aa-e4cdba658412.png)
 
 ### 3.2.2	How to navigate the Audio Interface
 
 On the leftmost panel, we display the name and file location of the current Audio Track:
 
+![unnamed-3](https://user-images.githubusercontent.com/77072787/132410284-df322c85-fe95-4bf4-b858-3fe5f3692c92.png)
+
 At the top-middle portion of the interface is the Play/Pause Button. A Left Mouse Click on this button will play or pause the current Audio track. Also, pressing the Spacebar on you keyboard will play or pause the current Audio Track
+
+![unnamed-4](https://user-images.githubusercontent.com/77072787/132410321-9fdfe990-02b8-45cb-a20c-c9de5d58f487.png)
+
 
 On top of the Seek Bar is the Playhead, represented by an orange circle. This is a visual representation of what position in the current Audio Track is being played.
 
 The Playhead can be clicked and dragged with a Left Mouse Hold to a different position on the Seek Bar, which will update the current position of the Audio Trail being played.
+
+![unnamed-5](https://user-images.githubusercontent.com/77072787/132410359-0b09a920-685e-4e9e-a495-d132ff32f73b.png)
+
 
 On the Right Most side of the Audio Interface is the Jump Audio Toggle Button. When this button is toggled on, and a Word on the Main Screen is Left Mouse Clicked, the Audio will jump to the Start Time of the Line that contains the word.
 

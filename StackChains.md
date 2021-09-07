@@ -77,6 +77,8 @@ On the left side of the Stack Chain’s name is the Pick Toggle Button. The Pick
 
 More options for Stack Chains can be accessed with a Right Mouse Click on a chain’s row (CTRL & Mouse Click on Mac)
 
+![unnamed-23](https://user-images.githubusercontent.com/77072787/132413113-b4667285-651a-417c-9c28-cba2d582e83a.png)
+
 Rename lets you input a string to name the selected Stack Chain.
 Recolor lets you choose a new color for the selected Stack Chain.
 Delete will delete all of the links of the selected Stack Chain, eliminating the whole chain.
@@ -85,15 +87,27 @@ Delete will delete all of the links of the selected Stack Chain, eliminating the
 
 With a Stack Chain focused, the Contents Window will display the contents of the focused Stack Chain
 
+![unnamed-24](https://user-images.githubusercontent.com/77072787/132413194-d5acf01f-e9b1-413f-a06a-d3db2792e91b.png)
+
 The Contents Window displays the individual Lines within a Stack Chain, showing their UID, Speaker, and Utterance.
 The Contents of any Stack Chain can be sorted using the Sort Buttons next to the column’s name.
+
+![unnamed-47](https://user-images.githubusercontent.com/77072787/132413296-c4a1b0eb-5caa-4cc1-8415-f2c0f05cfd6c.png)
 
 If you’re looking to add Tags to Stack Chains, then use the 1-to-Many/1-to-1 button on the right side of the screen between the Justify icon and Media icon. It is toggled with a Left Mouse Click
 
 It’s default position is 1-to-Many, displaying only the focused Stack’s contents. Once toggled, it will be set to 1-to-1 and display the Tags of all the Stacks visible in the Stack Chain List
 
+![unnamed-25](https://user-images.githubusercontent.com/77072787/132413343-7ae71100-66b7-47ba-af49-7f82df94f6cd.png)
+
 The Tags Window displays 3 tags per Stack Chain, in the categories of  Act, Repair, and Act Sequence.
 Within each cell, to the right, is the Change Tag button. A Left Mouse Click on the Change Tag button will open a dropdown menu, which allows you to select a Tag to fill that cell, or add a new Tag Option for that category.
+
+![unnamed-26](https://user-images.githubusercontent.com/77072787/132413397-8f7d30ca-f0ff-445c-a458-fbfe4214a5ef.png)
+
+![unnamed-27](https://user-images.githubusercontent.com/77072787/132413408-71c5a3e9-60db-4b6b-8b30-84eb92741847.png)
+
+![unnamed-28](https://user-images.githubusercontent.com/77072787/132413419-ba4e9d7f-31aa-49f5-9750-a1c77582fcd1.png)
 
 
 

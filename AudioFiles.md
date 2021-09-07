@@ -6,6 +6,9 @@ title: 3.1 How to use the Audio interface
 
 In order to begin using audio in Rezonator, you’ll need to open an audio file. To do so, Left Mouse Click on the “Media” option from the “File” dropdown. Note: Rezonator only supports .OGG audio files.
 
+![unnamed](https://user-images.githubusercontent.com/77072787/132409845-1003a101-1eb2-42b5-bdc9-f5ebdf37729f.png)
+![unnamed-1](https://user-images.githubusercontent.com/77072787/132409854-0cee7598-6a42-4f13-91f6-e5daa639c740.png)
+
 If the audio file successfully imports, then the Audio Interface will appear, like so:
 
 

@@ -32,11 +32,15 @@ The Playhead can be clicked and dragged with a Left Mouse Hold to a different po
 
 On the Right Most side of the Audio Interface is the Jump Audio Toggle Button. When this button is toggled on, and a Word on the Main Screen is Left Mouse Clicked, the Audio will jump to the Start Time of the Line that contains the word.
 
+![unnamed-6](https://user-images.githubusercontent.com/77072787/132410896-9477ec92-0814-4a83-948a-81ab326fb56b.png)
+
 ### 3.2.3	How to make an Audio Bookmark
 
 A more advanced feature of Rezonator’s Audio capabilities is Audio Bookmarks, which are used to set custom start times for Audio playing.
 
 Audio Bookmarks are created by pressing the Enter Key on the keyboard. Once the Enter Key is pressed, and Audio Interface is open, an Audio Bookmark will be placed at the current position of the Audio Playhead
+
+![unnamed-7](https://user-images.githubusercontent.com/77072787/132410937-530892d1-1778-4f20-ad12-6da0f0e521e6.png)
 
 The Audio Bookmark is visualized by a green triangle above the Seek bar. When an Audio Bookmark is present, pressing the Spacebar will set the Audio Playhead back to the position of the Audio Bookmark, in addition to playing/pausing the current audio file.
 
@@ -45,6 +49,8 @@ The Audio Bookmark is visualized by a green triangle above the Seek bar. When an
 Another advanced feature is Play Stack, which allows the currently selected Stack Chain to determine the Audio Bookmark and Audio Endmark. To focus a Stack Chain, you can Left Mouse Click on the Stack Chain Name within the List Window.
 
 Once a Stack Chain has been focused, the first and last Lines within the Stack Chain will be used to set the Audio Bookmark and Audio Endmark. The Audio Endmark, when present, prevents the Audio Playhead from moving past the Endmark’s position.
+
+![unnamed-22](https://user-images.githubusercontent.com/77072787/132411090-0e83b208-071a-4388-aff3-07137f9996ba.png)
 
 The Endmark is visualized with a red triangle below the Seek bar.
 

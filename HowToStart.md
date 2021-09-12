@@ -42,10 +42,6 @@ At any point during the working session, selecting the Exit option will exit the
 
 Rezonator supports TXT and CSV. There are seven different Import functions, each of which has been set up to deal with data organized in different ways that reflect a variety of data that linguists might be working with. What follows is a description of the data types that are supported so that you can select the most convenient schema for your data.
 
-### 1.4.1	Data types supported by Rezonator
-
-Rezonator supports TXT and CSV. There are seven different Import functions, each of which has been set up to deal with data organized in different ways that reflect a variety of data that linguists might be working with. What follows is a description of the data types that are supported so that you can select the most convenient schema for your data.
-
 ### 1.4.2	Song & Verse
 
 ![unnamed-2](https://user-images.githubusercontent.com/77072787/133002833-e6937f7a-4281-4a33-8249-f62c28365eb3.png)

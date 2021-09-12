@@ -62,7 +62,7 @@ The Tool pane consist of 7 sections
 + **The Go To Time** option opens a text input box. The user can input a number of seconds and their **Main Screen** will scroll to the line closest in Time Stamp.
 3. View Dropdown:
  * The **Window** option will open another dropdown:
-  * AJSHDKSAHKDAJS 
+ > AJSHDKSAHKDAJS 
 The Nav option will open another dropdown:
 Left will open/close the List Window
 Right will open/close the Contents Window

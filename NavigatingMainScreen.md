@@ -61,41 +61,45 @@ The Tool pane consist of 7 sections
 + The **Go To Line** option opens a text input box. The user can input a line number and their **Main Screen** will scroll to that location.
 + **The Go To Time** option opens a text input box. The user can input a number of seconds and their **Main Screen** will scroll to the line closest in Time Stamp.
 3. View Dropdown:
- * The **Window** option will open another dropdown:
- > AJSHDKSAHKDAJS 
-The Nav option will open another dropdown:
-Left will open/close the List Window
-Right will open/close the Contents Window
-Nav will open/close the List Window and the Contents Window
-Tools will open/close the Tools Pane
-All will open/close the List and Contents window, and the Tools Pane.
-Search will send the user to the Search Screen (if a Search has been done in the Rezonator session).
-Grid will send the user to the Grid Screen.
-The Justify option will open another dropdown:
-Left will justify the Tokens to the left side of the screen.
-Right will justify the Tokens to the right side of the screen.
-Center[i] will justify the Tokens to the center of the screen.
-The Prose option will open another dropdown:
-Prose will set the Tokens in a prose structure.
-Grid will set the Tokens in a grid structure.
-The Hide option will open another dropdown:
-Trail will toggle the visibility of all Trail chains in the Rez file.
-Rez will toggle the visibility of all Rez chains in the Rez file.
-Stack[j][k] will toggle the visibility of all Stack in the Rez file.
-Place will toggle the visibility of all Place Chains in the Rez file.
-[l]
-Filter Dropdown:        
-The Filter option will toggle on/off the Filter Screen (if any chains are Picked to be in the filter)
-The Pick option will open another dropdown:
-Rez will Pick all Rez chains to be in the Filter
-Trail will Pick all Trail chains to be in the Filter
-Stack will Pick all Stacks to be in the Filter
-The Context option will open another dropdown:
-Above will toggle the display of the Lines before the Picked Lines in the Filter Screen.
-Between will toggle the display of the Lines in between the Picked Lines in the Filter Screen.
-Below will toggle the display of the Lines after the Picked Lines in the Filter Screen.
-The Clear option will unpick all Picked Chains, clearing the Filter Screen, and sending the user b2        ack to the Main Screen if the Filter Screen was open
-Tools Dropdown:
+The **Window** option will open another dropdown:
+ * The Nav option will open another dropdown:
+   1. **Left** will open/close the **List Window**
+   2. **Right** will open/close the **Contents Window**
+   3. **Nav** will open/close the **List Window** and the **Contents Window**
+   4. **Tools** will open/close the **Tools Pane**
+   5. **All** will open/close the **List and Contents window, and the Tools Pane.**
+ * **Search** will send the user to the **Search Screen** (if a Search has been done in the Rezonator session).
+ * **Grid** will send the user to the **Grid Screen**.
+
+The **Justify** option will open another dropdown:
+ * **Left** will justify the **Tokens** to the left side of the screen.
+ * **Right** will justify the **Tokens** to the right side of the screen.
+ * **Center** will justify the **Tokens** to the center of the screen.
+
+The **Prose** option will open another dropdown:
+ * **Prose** will set the Tokens in a prose structure.
+ * **Grid** will set the Tokens in a grid structure.
+
+The **Hide** option will open another dropdown:
+ * **Trail** will toggle the visibility of all Trail chains in the Rez file.
+ * **Rez** will toggle the visibility of all Rez chains in the Rez file.
+ * **Stack** will toggle the visibility of all Stack in the Rez file.
+ * **Place** will toggle the visibility of all **Place Chains** in the Rez file.
+
+4. Filter Dropdown:        
+The **Filter** option will toggle on/off the **Filter Screen** (if any chains are **Picked** to be in the filter)
+The **Pick** option will open another dropdown:
+ * **Rez** will **Pick** all Rez chains to be in the Filter
+ * **Trail** will **Pick** all Trail chains to be in the Filter
+ * **Stack** will **Pick** all Stacks to be in the Filter
+
+The **Context** option will open another dropdown:
+ **Above** will toggle the display of the Lines before the Picked Lines in the Filter Screen.
+ **Between** will toggle the display of the Lines in between the Picked Lines in the Filter Screen.
+ **Below** will toggle the display of the Lines after the Picked Lines in the Filter Screen.
+The **Clear** option will unpick all **Picked Chains**, clearing the Filter Screen, and sending the user back to the **Main Screen** if the Filter Screen was open
+
+5. Tools Dropdown:
 The Search option will open another dropdown:
 Keyword [m]will open a dialog box for Rezonator’s Search by Keyword function
 Clear will turn off the highlighting for the Actively Searched Keywords that occurs on the Main Screen, if (if a Search has been done in the Rezonator session).

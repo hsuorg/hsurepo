@@ -7,7 +7,7 @@
       <h1 class="project-name">Table of Contents</h1>
       <h2 class="project-tagline"></h2>
   
-      <li><a href="{{site.baseurl}}/Chapter1">HowToStart</a></li>
+      <li><a href="{{site.baseurl}}/Chapter1">Chapter1</a></li>
       <li><a href="{{site.baseurl}}/NavigatingMainScreen">NavigatingMainScreen</a></li>
       <li><a href="{{site.baseurl}}/WorkingModes">WorkingModes</a></li>
       <li><a href="{{site.baseurl}}/UnitMode">UnitMode</a></li>

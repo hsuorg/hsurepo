@@ -3,10 +3,10 @@ title: Working Modes
 ---
 Rezonator features three different working modes that are designed to perform specific tasks. The modes can be accessed through the box on the right upper corner of the screen.
 
-## 2.1 Unit Mode
+## 3.1 Unit Mode
 **Unit Mode** is the default **Mode** of Rezonator, which limits the user’s ability to annotate the data, allowing for safe exploration of the data within the program. Unit Mode also features the **Line List** within the **List Window**. The functionalities of the Unit Mode are described below.
 
-### 2.1.1	Activating Unit Mode
+### 3.1.1	Activating Unit Mode
 
 Unit Mode will be active by default when Rezonator is first opened, and this can be seen by the highlighted **Unit Mode Button** in the **Tool Pane**:
 
@@ -14,7 +14,7 @@ Unit Mode will be active by default when Rezonator is first opened, and this can
 
 When not in Unit Mode, it can be activated by a **Mouse Click** on the Unit Mode Button.
 
-### 2.1.2	Functionality of Unit Mode
+### 3.1.2	Functionality of Unit Mode
 
 While in Unit Mode, the user is able to navigate through the dialog in multiple ways. The other feature of Unit Mode is its connection to the **Line List**.
 
@@ -28,11 +28,11 @@ This will move this line to the top of the Line list in the **Contents Window**.
 
 ![image62](https://user-images.githubusercontent.com/34769184/130828020-0097b830-cb58-4fe9-9d6a-61a39e24a2b6.png)
 
-## 2.2 Trail Mode
+## 3.2 Trail Mode
 
 **Trail Mode** is one of the two **Annotation Modes** of Rezonator, the other being **Rez Mode**. The main purpose of Trail Mode is to allow the user to “track” references of subjects across the discourse, through the use of **Trail Chains**.
 
-### 2.2.1	 Activating Trail Mode
+### 3.2.1	 Activating Trail Mode
 
 Trail Mode can be activated by a **Mouse Click** on the **Trail Tool Pane Button**:
 
@@ -44,7 +44,7 @@ Alternatively, Trail Mode can be activated by pressing the “T” Key on your k
 
 ![image61](https://user-images.githubusercontent.com/34769184/130829926-57359967-1191-4069-b484-28bae5bc45f9.png)
   
-### 2.2.2	Functionality of Trail Mode
+### 3.2.2	Functionality of Trail Mode
 
 The most important feature of Trail Mode is the creation of Trail Chains. A Trail Chain is a sequential set of words connected by **Links**. A Trail Chain looks like this:
 
@@ -72,7 +72,7 @@ To **Delete** a Link  within a Trail Chain, **Right Mouse Click** on the word yo
 
 Alternatively, you can Left Mouse Click on the word you want to remove from the Trail Chain, then press the **Delete Key** on your keyboard.
 
-### 2.2.3	Functionality of Unit Mode
+### 3.2.3	Functionality of Unit Mode
 
 When in **Trail Mode**, the **Trail Chain List** can be found in the top 1/3rd of the window.
 
@@ -107,11 +107,11 @@ Functionality of the Trail Chain List
   - **Recolor** lets you choose a new color for the selected Trail Chain.
   - **Delete** will delete all of the links of the selected Trail Chain, eliminating the whole chain.
  
-## 2.3 Rez Mode
+## 3.3 Rez Mode
 
 **Rez Mode** is one of the two **Annotation Modes** of Rezonator, the other being Trail Mode. The main purpose of Rez Mode is to allow the user to visualize **Resonance**, through the use of **Rez Chains**.
 
-### 2.3.1	 Activating Rez Mode
+### 3.3.1	 Activating Rez Mode
 
 Rez Mode can be activated by a **Mouse Click** on the **Rez Tool Pane Button**:
 
@@ -121,7 +121,7 @@ When Rez Mode is active, the Rez Tool Pane Button will be highlighted like so (s
 
 Alternatively, Rez Mode can be activated by pressing the **“R” Key** on your keyboard
   
-### 2.3.2	Functionality of Rez Mode
+### 3.3.2	Functionality of Rez Mode
 
 The most important feature of Rez Mode is the creation of Rez Chains. A Rez Chain is a sequential set of words connected by **Links**. A Rez Chain looks like this:
 
@@ -155,7 +155,7 @@ As noted above, Rez Chains will automatically Align when possible. This is meant
 
 ![image94](https://user-images.githubusercontent.com/34769184/130874872-01047324-8444-4335-8b2e-8f96a2987d7b.png)
 
-### 2.3.3	Functionality of the Rez Chain List
+### 3.3.3	Functionality of the Rez Chain List
 
 **Rez Chain List** allows users to visualize the active Rez Chains and their contents.
 There are 2 buttons on the lines in **Rez Mode: Filter Chains Button** & **Visibility Button**. The Filter Chains Button (filter cone), when activated by a Left Mouse Click, will add all active Rez Chains to the list of chains shown on the **Filter Screen**.

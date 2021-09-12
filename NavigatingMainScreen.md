@@ -47,7 +47,7 @@ The Tool pane consist of 7 sections
 ## 2.4	Menu Bar 
 
 1. File Dropdown:
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The **Save** option will save the current **Rez File**, and all of the changes that have been since last saving or opening. This option will overwrite the Rez File’s current location.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The **Save** option will save the current **Rez File**, and all of the changes that have been since last saving or opening. This option will overwrite the Rez File’s current location.
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The **Save As** option functions identically to the **Save** button, except that the Save As button does not overwrite the current Rez File. This option will have the user choose a file location and a file name.
  + The **Media** option will have the user choose **Audio File** (.OGG) to open up with the current Rezonator session.
  + The **Export** option will export the current Rez File as a collection of CSV files. The user will be prompted to provide a file location and file name.

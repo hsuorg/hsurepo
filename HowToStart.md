@@ -91,3 +91,27 @@ Elan data consists of one unit per block in which each block has 1 or more lines
 
 Interlinear Glossed Text (IGT) consists of one unit per block in which each block has 2 or more lines. The blocks are separated by a blank line and the schema hyphenates split morphs on whitespace. The accepted file type is plain text (.TXT). An example shown above is Nuu-chah-nulth. 
 
+### 1.5	Import Screen
+Once a file has been imported, it may require more advanced input to interpret the file’s data. This can be done with the Import Screen, which will be presented for all import types except for Song & Verse and Prose.
+
+The Import Screen is divided into four windows: File Overview, Example, Import Fields, and Field Info.
+
+![unnamed-9](https://user-images.githubusercontent.com/77072787/133003024-c734506e-668e-4049-af42-4c61a80afeba.png)
+
+The File Overview window will give you basic information about the file imported, such as the file’s name and how many lines were in it. This window also allows the user to save and load Schemas, which are useful files that contain preset import settings.
+
+The Examples window displays the text data that Rezonator extracted from the imported file. It shows a single field of data at a time, and that field can be changed in the Import Fields window.
+
+The Import Fields window is the section that requires the most user attention on the Import Screen, as it is the only window on the screen that allows for input. Each field is displayed as a row in this window, with clickable cells that allow users to adjust how the field will be interpreted. Clicking in the Level column of a cell will allow a selection between Token, Word, Unit, Doc, or Unknown. The method that Rezonator will use to split and distribute these levels will depend on the chosen import type, but here is a basic breakdown of the five possible field levels.
+
+Token: The smallest form of language data that the source file offers, usually at the word or morpheme level. Rezonator always requires at least one token level field.
+Word (Interlinear Glossed Text only): Groupings of tokens into words, only available in Interlinear Glossed Text for files that have tokens at morpheme level
+Unit: Language data at the utterance/intonation unit level
+Doc: Data that applies to the entire imported file
+Unknown: Data that should not be imported to Rezonator
+
+The Key column of the Import Fields window allows the user to specify which field(s) should be used to delimit other fields of the same level. Rezonator will always require the Key column to specify the Display Token, which is the token level field that will be displayed immediately once the file has been interpreted. For the One Word Per Line and CONLL-U imports, the Key column will also require a Unit field to be specified as the Unit Delimiter. For the Elan import, the Key column allows Unit fields to be marked as Unit Start and Unit End, meaning that the data will be sorted by the timestamps in those fields.
+
+The Special column allows for fields to be used in certain special features in Rezonator, such as Participant and Translation.
+
+Finally, the Field Info window contains a breakdown of the imported fields on a technical level. It is a read-only window displaying how many tokens were found in each field, how consistently that field was marked in the file, and whether or not it contains any spaces.

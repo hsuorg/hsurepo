@@ -4,7 +4,6 @@ title: Working Modes
 Rezonator features three different working modes that are designed to perform specific tasks. The modes can be accessed through the box on the right upper corner of the screen.
 
 ## 2.1 Unit Mode
-=====
 **Unit Mode** is the default **Mode** of Rezonator, which limits the user’s ability to annotate the data, allowing for safe exploration of the data within the program. Unit Mode also features the **Line List** within the **List Window**. The functionalities of the Unit Mode are described below.
 
 ### 2.1.1	Activating Unit Mode

@@ -14,6 +14,7 @@
       <li><a href="{{site.baseurl}}/MediaFile">MediaFile</a></li>
       <li><a href="{{site.baseurl}}/ExportingAFile">ExportingAFile</a></li>
       <li><a href="{{site.baseurl}}/DropdownMenus">DropdownMenus</a></li>
+      <li><a href="{{site.baseurl}}/WorkingModes">WorkingModes</a></li>
       <li><a href="{{site.baseurl}}/UnitMode">UnitMode</a></li>
       <li><a href="{{site.baseurl}}/TrailMode">TrailMode</a></li>
       <li><a href="{{site.baseurl}}/RezMode">RezMode</a></li>

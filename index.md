@@ -7,7 +7,7 @@
       <h1 class="project-name">Table of Contents</h1>
       <h2 class="project-tagline"></h2>
   
-      <li><a href="{{site.baseurl}}/HowToStart">HowToStart</a></li>
+      <li><a href="{{site.baseurl}}/Chapter1">HowToStart</a></li>
       <li><a href="{{site.baseurl}}/OpeningARezFile">OpeningARezFile</a></li>
       <li><a href="{{site.baseurl}}/ImportingNewFiles">ImportingNewFiles</a></li>
       <li><a href="{{site.baseurl}}/SavingAFile">SavingAFile</a></li>

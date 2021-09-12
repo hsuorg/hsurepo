@@ -20,9 +20,9 @@ The Workspace is a malleable area where the user can view token and unit level f
 
 The Tool pane consist of 7 sections
 1.**Tools**:
- + **Resonance**: The Resonance tool is used to add words to a chain that will try to align to the furthest display column.
- + **Track**: The Track tool is used to add words to a chain that will not try to align.
- + **Tag**: The Tag Tool allows the user to add tags to existing fields where applicable
+   + **Resonance**: The Resonance tool is used to add words to a chain that will try to align to the furthest display column.
+   + **Track**: The Track tool is used to add words to a chain that will not try to align.
+   + **Tag**: The Tag Tool allows the user to add tags to existing fields where applicable
 2. **Filter**:
  + Displays whether a filter is actively being viewed and can be used to toggle it on and off.
 3. **Context**:

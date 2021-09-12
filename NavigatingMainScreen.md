@@ -109,12 +109,12 @@ The **Clear** option will unpick all **Picked Chains**, clearing the Filter Scre
 6. Settings Dropdown:
 * The **User** option allows the user to set a **Username** for the current chain creator.
 * The **Zoom** option will open another dropdown: (Note: Column Width is only used when the **Tokens** are in the **Grid Structure**.)
- 1. **Zoom-in** will increase the **Font Size, Line Height, and Column Width**.
- 2. **Zoom-out** will decrease the **Font Size, Line Height, and Column Width**.
- 3. **Wide** will increase **Column Width**.
- 4. **Narrow** will decrease **Column Width**.
- 5. **Tall** will increase the **Line Height**.
- 6. **Short** will decrease the **Line Height**.
+  1. **Zoom-in** will increase the **Font Size, Line Height, and Column Width**.
+  2. **Zoom-out** will decrease the **Font Size, Line Height, and Column Width**.
+  3. **Wide** will increase **Column Width**.
+  4. **Narrow** will decrease **Column Width**.
+  5. **Tall** will increase the **Line Height**.
+  6. **Short** will decrease the **Line Height**.
 * The **Zero** option lets the user input a new **Default New Word** as a string.
 * The **Theme** option will toggle the current **Display Theme** between **Light** and **Dark**.
 * The **Restore Hints** option will re-enable any **Hints** the user has previously disabled in this Rezonator session.

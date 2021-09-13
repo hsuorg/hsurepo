@@ -8,8 +8,8 @@
       <h2 class="project-tagline"></h2>
   
       <li><a href="{{site.baseurl}}/Chapter1">Chapter1</a></li>
-      <li><a href="{{site.baseurl}}/NavigatingMainScreen">NavigatingMainScreen</a></li>
-      <li><a href="{{site.baseurl}}/WorkingModes">WorkingModes</a></li>
+      <li><a href="{{site.baseurl}}/Chapter2">Chapter2</a></li>
+      <li><a href="{{site.baseurl}}/Chapter3">Chapter3</a></li>
       <li><a href="{{site.baseurl}}/UnitMode">UnitMode</a></li>
       <li><a href="{{site.baseurl}}/TrailMode">TrailMode</a></li>
       <li><a href="{{site.baseurl}}/RezMode">RezMode</a></li>

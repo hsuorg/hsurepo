@@ -1,5 +1,6 @@
 ---
 title: How to use the Audio interface
+description: 
 ---
 ### How to Open an Audio File
 **The Audio functionality of Rezonator allows the user to listen to the dialog associated with the transcript being annotated. The user can play and pause the audio, set bookmarks within the audio track, and even select lines to play the audio of.**

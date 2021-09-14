@@ -2,7 +2,6 @@
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
-    <description>Dynamics of Human Engagement</description>
   </head>
   <body>
       <h1 class="project-name">Table of Contents</h1>

@@ -1,5 +1,6 @@
 ---
 title: Working Modes
+description: 
 ---
 Rezonator features three different working modes that are designed to perform specific tasks. The modes can be accessed through the box on the right upper corner of the screen.
 

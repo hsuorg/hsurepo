@@ -16,16 +16,18 @@ header {
     }
 }
 
-.downloads {
-    float: right;
-    margin:0 45px 0 0;
+#banner {
+    .downloads {
+        float: right;
+        margin:0 45px 0 0;
 
-    span {
-      float:left;
-      line-height:52px;
-      font-size:90%;
-      color:#ffffff;
-      text-transform:uppercase;
-      text-shadow:rgba(#fff, 0.2) 0 1px 0;
+        span {
+          float:left;
+          line-height:52px;
+          font-size:90%;
+          color:#ffffff;
+          text-transform:uppercase;
+          text-shadow:rgba(#fff, 0.2) 0 1px 0;
+        }
     }
-  }
+}

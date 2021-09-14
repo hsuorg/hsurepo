@@ -1,5 +1,6 @@
 ---
 title: Trail Mode
+description: 
 ---
 2.2 Trail Mode
 =====

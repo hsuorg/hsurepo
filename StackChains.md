@@ -1,5 +1,6 @@
 ---
 title: Stack Chains
+description: 
 ---
 ### How to make Stack Chains
 

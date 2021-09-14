@@ -7,7 +7,7 @@
       <h1 class="project-name">Table of Contents</h1>
       
   
-      <li><a href="{{site.baseurl}}/Chapter1">Chapter 1</a></li>
+### <a href="{{site.baseurl}}/Chapter1">Chapter 1</a>
       <li><a href="{{site.baseurl}}/Chapter2">Chapter 2</a></li>
       <li><a href="{{site.baseurl}}/Chapter3">Chapter 3</a></li>
       <li><a href="{{site.baseurl}}/UnitMode">Unit Mode</a></li>

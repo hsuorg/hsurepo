@@ -1,5 +1,6 @@
 ---
 title: Navigating Main Screen
+description: cool!!
 ---
 The main screen of Rezonator is our visual representation of the text imported delineated into tokens and units. 
 
